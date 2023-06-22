@@ -1,0 +1,6 @@
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Casino\bin\Debug\Casino.dll
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Casino\bin\Debug\Casino.pdb
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Casino\obj\Debug\Casino.dll
+\\wsl.localhost\Ubuntu\home\norman\aolcc\csharp_projects\Casino\obj\Debug\Casino.pdb
